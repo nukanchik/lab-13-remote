@@ -1,0 +1,55 @@
+body{
+	background-color:#4ABDAC;
+	font-family: 'Ubuntu', sans-serif;
+	color: #ffffff;
+	margin: auto;
+    width: 50%;
+    padding: 10px;
+
+}
+#sushiLove{
+	width: 750px;
+	height: 300px;
+	
+
+}
+
+h1{
+	text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #282a2b;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+li a:hover {
+    background-color: #111;
+}
+
+
+table, th, td {
+    border: 2px solid black;
+    padding: 5px;
+}
+table {
+    border-spacing: 15px;
+    background-color: #ffffff;
+    color: #111;
+    width: 100%;
+
+}
